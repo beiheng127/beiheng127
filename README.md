@@ -33,7 +33,7 @@ location: 浙江杭州
 school: 山东理工大学 · 软件2304班
 
 currently:
-  - 实习中：React 16 + 微前端 + 医疗HIS
+  - 实习：React 16 + 微前端 + 医疗HIS
   - 学：Next.js 16 / React 19 / AI Agent
   - 跑：5km PB 17:44 · 月跑量峰值 220km
   - 玩：鸣潮 / 星铁 / 艾尔登法环 / 三角洲
@@ -139,9 +139,8 @@ philosophy:
 | 方向 | 状态 | 说明 |
 |------|------|------|
 | 🤖 AI Agent / MCP | 🟢 学习中 | Cursor + WorkBuddy + Agent Skills |
-| ⚛️ React 19 / Next.js 16 | 🟢 实战中 | chatapp / AITalk 项目 |
-| 🏥 医疗数字化（HIS） | 🟡 实习中 | 熙牛医疗，微前端架构 |
-| 🎮 游戏化应用设计 | 🟢 创作中 | daily-habit-game |
+| ⚛️ React 19 / Next.js 16 | 🟢 实战中 | Aether Desk 项目 |
+| 🏥 医疗数字化（HIS） | 🟢 实习 | 熙牛医疗，微前端架构 |
 | 🏃 跑步 & 存在感锚点 | 🟡 恢复中 | 5km PB 17:44，月跑量在恢复 |
 
 ---
