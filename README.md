@@ -172,7 +172,7 @@ philosophy:
   <a href="https://github.com/beiheng127"><img src="https://img.shields.io/badge/GitHub-beiheng127-fff?style=flat-square&logo=github" /></a>
   <a href="https://space.bilibili.com/538615178"><img src="https://img.shields.io/badge/B站-北恒吖-00aeec?style=flat-square&logo=bilibili" /></a>
   <a href="https://www.yuque.com/beihengya"><img src="https://img.shields.io/badge/语雀-beihengya-07c160?style=flat-square&logo=yuque" /></a>
-  <a href="mailto:beiheng127@qq.com"><img src="https://img.shields.io/badge/Email-beiheng127%40qq.com-ea4335?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:934705339@qq.com or ruia36791@163.com"><img src="https://img.shields.io/badge/Email-beiheng127%40qq.com-ea4335?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
